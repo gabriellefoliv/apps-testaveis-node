@@ -1,6 +1,6 @@
 <h3>Clonando</h3>
 
-How to clone your project
+Como clonar o repositório pelo terminal
 
 ```bash
 git clone project-url-in-github
