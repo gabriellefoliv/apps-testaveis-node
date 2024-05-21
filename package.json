@@ -1,0 +1,19 @@
+{
+  "name": "apps-testaveis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.3.0",
+    "vitest": "^1.6.0"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
